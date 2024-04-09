@@ -1,2 +1,7 @@
 # calculite
-Exemple python сalculator  
+Simple python сalculator  
+
+Run with:
+```
+python3 calculite.py
+```
